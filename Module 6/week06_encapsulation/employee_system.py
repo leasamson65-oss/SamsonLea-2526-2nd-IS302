@@ -11,6 +11,6 @@ class Employee:
         return self.__salary
 
 
-emp = Employee("Ana")
+emp = Employee("Lea")
 emp.set_salary(30000)
 print("Salary:", emp.get_salary())
